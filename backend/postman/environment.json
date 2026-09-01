@@ -1,0 +1,13 @@
+{
+  "id": "invos-local",
+  "name": "Invos Local",
+  "values": [
+    { "key": "baseUrl", "value": "http://localhost:5000", "enabled": true },
+    { "key": "accessToken", "value": "", "enabled": true },
+    { "key": "email", "value": "demo@invos.test", "enabled": true },
+    { "key": "password", "value": "password123", "enabled": true },
+    { "key": "verifyToken", "value": "", "enabled": true },
+    { "key": "invoiceId", "value": "", "enabled": true },
+    { "key": "clientId", "value": "", "enabled": true }
+  ]
+}
